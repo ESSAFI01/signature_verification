@@ -10,8 +10,8 @@ Signature verification is a crucial application of machine learning, aimed at di
   
 ## Project Structure
 
-- `data/`: Contains the signature dataset used for training and testing.
-- `notebooks/`: Jupyter notebooks contains the cource code for preprocessing, feature extraction, model training, and evaluation.
+- `signature_data/`: Contains the signature dataset used for training and testing.
+- `mlproject.ipynb/`: Jupyter notebooks contains the cource code for preprocessing, feature extraction, model training, and evaluation.
 ## Research Paper
 
 For an in-depth explanation of the methodologies, algorithms, and results of this project, [research paper](https://github.com/ESSAFI01/signature_verification/blob/main/research%20paper.pdf)) included in this repository.
