@@ -14,4 +14,4 @@ Signature verification is a crucial application of machine learning, aimed at di
 - `notebooks/`: Jupyter notebooks contains the cource code for preprocessing, feature extraction, model training, and evaluation.
 ## Research Paper
 
-For an in-depth explanation of the methodologies, algorithms, and results of this project, [research paper]([https://github.com/ESSAFI01/signature_verification/research_paper.pdf](https://github.com/ESSAFI01/signature_verification/blob/main/research%20paper.pdf)) included in this repository.
+For an in-depth explanation of the methodologies, algorithms, and results of this project, [research paper](https://github.com/ESSAFI01/signature_verification/blob/main/research%20paper.pdf)) included in this repository.
